@@ -16,3 +16,6 @@ Game play
   - ghost 
   - ending -winner
   - some of the items in the rooms
+
+
+  ~ to be update. This is an older project as such more details will be added to the readme.
